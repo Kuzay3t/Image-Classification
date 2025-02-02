@@ -52,8 +52,3 @@ This project helps in:
 
 ---
 
-## 🛠️ How to Run the Project  
-### Clone the Repository  
-```sh
-git clone https://github.com/your-username/image-classification-tf-vs-pytorch.git
-cd image-classification-tf-vs-pytorch
